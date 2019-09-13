@@ -49,6 +49,7 @@ end
 def retrieve_first_element_from_array(array)
   music_genre =["R&B","Hip Hop","Pop","Techno"]
   
+  music_genre.
 end
 
 def retrieve_last_element_from_array(array)
