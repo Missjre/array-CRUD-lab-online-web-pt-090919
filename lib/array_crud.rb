@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   music_genre =["R&B","Hip Hop","Pop","Techno"]
-   Techno_genre=
+   Techno_genre=music_genrepop
 end
 
 def remove_element_from_start_of_array(array)
