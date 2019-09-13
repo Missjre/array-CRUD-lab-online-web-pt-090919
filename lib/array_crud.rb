@@ -3,6 +3,7 @@ my_array=
 end
 
 def create_an_array
+  music_genre=
   
 end
 
