@@ -21,6 +21,8 @@ def remove_element_from_end_of_array(array)
    Techno_genre=music_genre.pop
    
    puts music_genre.Pop
+   
+   puts 
 end
 
 def remove_element_from_start_of_array(array)
