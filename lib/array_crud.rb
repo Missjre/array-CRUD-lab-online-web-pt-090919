@@ -3,7 +3,7 @@ my_array=
 end
 
 def create_an_array
-  music_genre=["R&B", "Hip Hop", "Pop","Techno"]
+  music_genre =["R&B", "Hip Hop", "Pop","Techno"]
   
 end
 
