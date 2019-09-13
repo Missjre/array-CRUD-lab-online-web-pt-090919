@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   music_genre =["R&B","Hip Hop","Pop","Techno"]
-   music_genre.push("Gospel")
+   music_genre.unshift("Gospel")
 end
 
 def remove_element_from_end_of_array(array)
