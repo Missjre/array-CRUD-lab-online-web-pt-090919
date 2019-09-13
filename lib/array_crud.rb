@@ -27,6 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   music_genre =["R&B","Hip Hop","Pop","Techno"]
+  R&B
   
 end
 
