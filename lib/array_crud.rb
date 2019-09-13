@@ -31,7 +31,7 @@ def remove_element_from_start_of_array(array)
   
   puts music_genre.inspect
   
-  
+  puts R_B
   
 end
 
