@@ -36,6 +36,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   music_genre =["R&B","Hip Hop","Pop","Techno"]
+  
 end
 
 def retrieve_first_element_from_array(array)
