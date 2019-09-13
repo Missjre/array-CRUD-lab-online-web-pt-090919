@@ -32,7 +32,6 @@ def remove_element_from_start_of_array(array)
   puts music_genre.inspect
   
   puts R_B
-  
 end
 
 def retrieve_element_from_index(array, index_number)
