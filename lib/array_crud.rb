@@ -1,11 +1,10 @@
 def create_an_empty_array
-my_array= 
+my_array=  
 end
 
 def create_an_array
   music_genre =["R&B","Hip Hop","Pop","Techno"]
-  
-end
+  end
 
 def add_element_to_end_of_array(array, element)
   
